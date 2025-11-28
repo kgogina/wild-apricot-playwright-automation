@@ -47,7 +47,7 @@ To run the automation project, follow these steps:
     npx playwright show-report
    ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 pages/               # Page Object classes
@@ -58,7 +58,7 @@ assets/              # Image used for product upload
 playwright.config.ts # Global test configuration
 ```
 
-## 🧱 Page Objects
+##  Page Objects
 
 ### LoginPage
 
